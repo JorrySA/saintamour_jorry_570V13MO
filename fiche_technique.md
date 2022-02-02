@@ -28,4 +28,4 @@
 
 - Références:
 
-#Photographies et croquis à intégrer
+#Photographies et croquis intégrés
